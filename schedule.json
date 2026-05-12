@@ -607,7 +607,18 @@
     {
       "date": "2026-05-30",
       "dayName": "Суббота",
-      "timeStart": "22:00",
+      "timeStart": "19:00",
+      "timeEnd": "22:00",
+      "type": "general",
+      "placeId": "main_stage",
+      "track": "✨ Общая активность",
+      "title": "🎁 Закрытие Кэмпа и награждение",
+      "description": "Встречаемся на главной сцене на официальное закрытие и за подарочками!"
+    },
+    {
+      "date": "2026-05-30",
+      "dayName": "Суббота",
+      "timeStart": "21:00",
       "timeEnd": "02:00",
       "type": "general",
       "placeId": "main_stage",
@@ -615,7 +626,6 @@
       "title": "🪩 👩🏻‍🎤 VAS3K RAVE",
       "description": "ЭТО РЕЙВ!!!!! ВСЕ СВЕТЯШКИ НА СЕБЯ!!!"
     },
-   
     {
       "date": "2026-05-30",
       "dayName": "Суббота",
