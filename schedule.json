@@ -583,8 +583,8 @@
     {
       "date": "2026-05-30",
       "dayName": "Суббота",
-      "timeStart": "16:00",
-      "timeEnd": "17:00",
+      "timeStart": "20:00",
+      "timeEnd": "21:00",
       "track": "🏃‍♂️ Active Arena",
       "placeId": "volley",
       "title": "💃🏻🕺🏼 Мастер-класс по парному Блюзу.",
@@ -607,8 +607,8 @@
     {
       "date": "2026-05-30",
       "dayName": "Суббота",
-      "timeStart": "20:00",
-      "timeEnd": "21:20",
+      "timeStart": "22:00",
+      "timeEnd": "23:00",
       "type": "general",
       "placeId": "main_stage",
       "track": "✨ Общая активность",
@@ -618,7 +618,7 @@
     {
       "date": "2026-05-30",
       "dayName": "Суббота",
-      "timeStart": "21:30",
+      "timeStart": "23:00",
       "timeEnd": "02:00",
       "type": "general",
       "placeId": "main_stage",
@@ -629,8 +629,8 @@
     {
       "date": "2026-05-30",
       "dayName": "Суббота",
-      "timeStart": "22:30",
-      "timeEnd": "23:00",
+      "timeStart": "02:00",
+      "timeEnd": "03:00",
       "type": "general",
       "placeId": "main_stage",
       "track": "✨ Общая активность",
