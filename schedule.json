@@ -26,32 +26,8 @@
     {
       "date": "2026-05-28",
       "dayName": "Четверг",
-      "timeStart": "15:00",
-      "timeEnd": "16:00",
-      "track": "💬 Soft Skills Hub",
-      "placeId": "restaurant",
-      "author": "Святозар Минин",
-      "authorUrl": "https://vas3k.club/user/masik_plus",
-      "title": "🤝 Знакомства через импровизацию 🤝 ",
-      "description": "Легкий формат для знакомства с участниками кэмпа через актерские техники. Учимся управлять вниманием и взаимодействовать с партнёром"
-    },
-    {
-      "date": "2026-05-28",
-      "dayName": "Четверг",
-      "timeStart": "17:00",
-      "timeEnd": "18:00",
-      "track": "💬 Soft Skills Hub",
-      "placeId": "restaurant",
-      "author": "Святозар Минин",
-      "authorUrl": "https://vas3k.club/user/masik_plus",
-      "title": "🤝 Знакомства через импровизацию 🤝 ",
-      "description": "Легкий формат для знакомства с участниками кэмпа через актерские техники. Учимся управлять вниманием и взаимодействовать с партнёром"
-    },
-    {
-      "date": "2026-05-28",
-      "dayName": "Четверг",
-      "timeStart": "19:00",
-      "timeEnd": "20:00",
+      "timeStart": "14:00",
+      "timeEnd": "15:00",
       "track": "💬 Soft Skills Hub",
       "placeId": "restaurant",
       "author": "Святозар Минин",
@@ -63,7 +39,31 @@
       "date": "2026-05-28",
       "dayName": "Четверг",
       "timeStart": "16:00",
-      "timeEnd": "17:30",
+      "timeEnd": "17:00",
+      "track": "💬 Soft Skills Hub",
+      "placeId": "restaurant",
+      "author": "Святозар Минин",
+      "authorUrl": "https://vas3k.club/user/masik_plus",
+      "title": "🤝 Знакомства через импровизацию 🤝 ",
+      "description": "Легкий формат для знакомства с участниками кэмпа через актерские техники. Учимся управлять вниманием и взаимодействовать с партнёром"
+    },
+    {
+      "date": "2026-05-28",
+      "dayName": "Четверг",
+      "timeStart": "18:00",
+      "timeEnd": "19:00",
+      "track": "💬 Soft Skills Hub",
+      "placeId": "restaurant",
+      "author": "Святозар Минин",
+      "authorUrl": "https://vas3k.club/user/masik_plus",
+      "title": "🤝 Знакомства через импровизацию 🤝 ",
+      "description": "Легкий формат для знакомства с участниками кэмпа через актерские техники. Учимся управлять вниманием и взаимодействовать с партнёром"
+    },
+    {
+      "date": "2026-05-28",
+      "dayName": "Четверг",
+      "timeStart": "15:00",
+      "timeEnd": "16:30",
       "track": "🌿 Hobby Grove",
       "placeId": "living_room",
       "author": "Женя Костюченко",
@@ -74,8 +74,8 @@
     {
       "date": "2026-05-28",
       "dayName": "Четверг",
-      "timeStart": "17:00",
-      "timeEnd": "19:00",
+      "timeStart": "15:00",
+      "timeEnd": "17:00",
       "track": "🧠 Geek Zone",
       "placeId": "attic",
       "title": "Паяем радиоприемники",
@@ -87,8 +87,8 @@
     {
       "date": "2026-05-28",
       "dayName": "Четверг",
-      "timeStart": "18:00",
-      "timeEnd": "19:00",
+      "timeStart": "17:00",
+      "timeEnd": "18:00",
       "track": "🏃‍♂️ Active Arena",
       "placeId": "restaurant",
       "title": "🍻 🏃🏻‍♀️ Пивная миля",
@@ -97,8 +97,8 @@
     {
       "date": "2026-05-28",
       "dayName": "Четверг",
-      "timeStart": "21:00",
-      "timeEnd": "22:00",
+      "timeStart": "20:00",
+      "timeEnd": "21:00",
       "type": "general",
       "placeId": "main_stage",
       "title": "🎉🎉🎉 ОФИЦИАЛЬНОЕ ОТКРЫТИЕ КЭМПА 🎉🎉🎉",
@@ -107,8 +107,8 @@
     {
       "date": "2026-05-28",
       "dayName": "Четверг",
-      "timeStart": "22:00",
-      "timeEnd": "23:30",
+      "timeStart": "21:00",
+      "timeEnd": "23:00",
       "type": "general",
       "track": "✨ Общая активность",
       "placeId": "main_stage",
@@ -118,7 +118,7 @@
     {
       "date": "2026-05-28",
       "dayName": "Четверг",
-      "timeStart": "23:30",
+      "timeStart": "23:00",
       "timeEnd": "00:30",
       "type": "general",
       "track": "✨ Общая активность",
@@ -773,14 +773,14 @@
   "meals": [
     {
       "date": "2026-05-28",
-      "timeStart": "15:00",
-      "timeEnd": "17:00",
+      "timeStart": "13:00",
+      "timeEnd": "14:00",
       "title": "Обед"
     },
     {
       "date": "2026-05-28",
-      "timeStart": "19:00",
-      "timeEnd": "21:00",
+      "timeStart": "18:00",
+      "timeEnd": "20:00",
       "title": "Ужин"
     },
     {
