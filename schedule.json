@@ -108,7 +108,7 @@
       "date": "2026-05-28",
       "dayName": "Четверг",
       "timeStart": "21:00",
-      "timeEnd": "23:00",
+      "timeEnd": "22:30",
       "type": "general",
       "track": "✨ Общая активность",
       "placeId": "main_stage",
@@ -118,7 +118,7 @@
     {
       "date": "2026-05-28",
       "dayName": "Четверг",
-      "timeStart": "23:00",
+      "timeStart": "22:30",
       "timeEnd": "00:30",
       "type": "general",
       "track": "✨ Общая активность",
@@ -153,7 +153,7 @@
     {
       "date": "2026-05-29",
       "dayName": "Пятница",
-      "timeStart": "09:00",
+      "timeStart": "09:30",
       "timeEnd": "10:00",
       "track": "🏃‍♂️ Active Arena",
       "placeId": "volley",
@@ -437,7 +437,7 @@
     {
       "date": "2026-05-30",
       "dayName": "Суббота",
-      "timeStart": "09:00",
+      "timeStart": "09:30",
       "timeEnd": "10:00",
       "track": "🏃‍♂️ Active Arena",
       "placeId": "volley",
@@ -672,7 +672,7 @@
     {
       "date": "2026-05-31",
       "dayName": "Воскресенье",
-      "timeStart": "09:00",
+      "timeStart": "09:30",
       "timeEnd": "10:00",
       "track": "🏃‍♂️ Active Arena",
       "placeId": "volley",
