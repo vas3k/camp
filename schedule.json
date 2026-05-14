@@ -278,7 +278,18 @@
       "authorUrl": "https://vas3k.club/user/shrimpsizemoose/",
       "description": "Паяльный воркшоп со сборкой аксессуаров для рейва! Мигалки, светяшки, бэйджи и тд."
     },
-
+    {
+      "date": "2026-05-29",
+      "dayName": "Пятница",
+      "timeStart": "14:00",
+      "timeEnd": "16:30",
+      "track": "🏃‍♂️ Active Arena",
+      "placeId": "gazebo",
+      "title": "Техно беседка",
+      "author": "Renat Azibaev",
+      "authorUrl": "https://vas3k.club/user/zibzibzib/",
+      "description": "Дневной рзъеб с DJ-ми, ставим 140-160 bpm тречки"
+    },
     {
       "date": "2026-05-29",
       "dayName": "Пятница",
