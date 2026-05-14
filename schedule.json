@@ -707,8 +707,8 @@
     {
       "date": "2026-05-31",
       "dayName": "Воскресенье",
-      "timeStart": "11:00",
-      "timeEnd": "13:00",
+      "timeStart": "12:00",
+      "timeEnd": "14:00",
       "track": "🧠 Geek Zone",
       "title": "Доклад про федеративные соцсети и мессенджеры: куда бежать, когда корпорации убивают любимые сервисы",
       "placeId": "living_room",
@@ -719,8 +719,8 @@
     {
       "date": "2026-05-31",
       "dayName": "Воскресенье",
-      "timeStart": "12:00",
-      "timeEnd": "13:00",
+      "timeStart": "10:00",
+      "timeEnd": "11:00",
       "track": "💬 Soft Skills Hub",
       "placeId": "living_room",
       "author": "Максим Фалеев",
