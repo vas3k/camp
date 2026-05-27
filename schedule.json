@@ -199,6 +199,18 @@
       "authorUrl": "https://vas3k.club/user/shrimpsizemoose/",
       "description": "Если вы давно хотели научиться жонглировать (шариками или чем-то потяжелее!) - добро пожаловать!"
     },
+    {
+      "date": "2026-05-29",
+      "dayName": "Пятница",
+      "timeStart": "10:00",
+      "timeEnd": "11:00",
+      "track": "🏃‍♂️ Active Arena",
+      "placeId": "shootingrange",
+      "title": "Стрельба из лука",
+      "author": "Danis Zojl",
+      "authorUrl": "https://vas3k.club/user/danis/",
+      "description": "Учим желающих стрелять из лука. 35-фунтовый традиционный лук. Стрелять можно по очереди, 2-3 подхода по 3 стрелы."
+    },
 
     {
       "date": "2026-05-29",
@@ -487,7 +499,7 @@
       "timeStart": "10:00",
       "timeEnd": "11:00",
       "track": "🏃‍♂️ Active Arena",
-      "placeId": "playground",
+      "placeId": "shootingrange",
       "title": "Стрельба из лука",
       "author": "Danis Zojl",
       "authorUrl": "https://vas3k.club/user/danis/",
@@ -742,6 +754,18 @@
     {
       "date": "2026-05-31",
       "dayName": "Воскресенье",
+      "timeStart": "09:30",
+      "timeEnd": "10:30",
+      "track": "🏃‍♂️ Active Arena",
+      "placeId": "shootingrange",
+      "title": "Стрельба из лука",
+      "author": "Danis Zojl",
+      "authorUrl": "https://vas3k.club/user/danis/",
+      "description": "Учим желающих стрелять из лука. 35-фунтовый традиционный лук. Стрелять можно по очереди, 2-3 подхода по 3 стрелы."
+    },
+    {
+      "date": "2026-05-31",
+      "dayName": "Воскресенье",
       "timeStart": "12:00",
       "timeEnd": "14:00",
       "track": "🧠 Geek Zone",
@@ -843,6 +867,11 @@
       "title": "👩🏻‍🎤 Beauty corner",
       "placeId": "beach",
       "description": "Место, где каждый может стать красивее и наряднее: блестки, аквагрим, переводные татухи, светяшки для вечеринок.\nПриносите свои запасы, пользуйтесь общественными, просите помочь вам сделать крутой пати-мэйк. В режиме самообслуживания на корнер можно приходить круглосуточно!"
+    }
+    {
+      "title": "👩🏻‍🎤 Стрельбище",
+      "placeId": "shootingrange",
+      "description": "Место, где можно пострелять из лука! Находится за уголком интроверта, позади ближних домиков за Домом либерлэнда"
     }
   ],
   "quests": [
