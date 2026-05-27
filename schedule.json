@@ -141,6 +141,18 @@
     {
       "date": "2026-05-28",
       "dayName": "Четверг",
+      "timeStart": "22:30",
+      "timeEnd": "00:00",
+      "track": "🌿 Hobby Grove",
+      "placeId": "living_room",
+      "title": "Обучение риичи-маджонгу",
+      "author": "Anna",
+      "authorUrl": "https://vas3k.club/user/Doredel/",
+      "description": "Обучение всех желающих игре в японский вариант маджонга. Стол будет всего один, так что число мест ограничено четырьмя. Но никто не запрещает просто смотреть!"
+    },
+    {
+      "date": "2026-05-28",
+      "dayName": "Четверг",
       "timeStart": "00:30",
       "timeEnd": "02:30",
       "track": "🌿 Hobby Grove",
