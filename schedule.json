@@ -331,8 +331,8 @@
       "timeStart": "14:00",
       "timeEnd": "16:00",
       "track": "🏃‍♂️ Active Arena",
-      "placeId": "gazebo",
-      "title": "Техно беседка",
+      "placeId": "bando",
+      "title": "Техно в заброшенном доме!",
       "author": "Renat Azibaev",
       "authorUrl": "https://vas3k.club/user/zibzibzib/",
       "description": "Дневной рзъеб с DJ-ми, ставим 140-160 bpm тречки"
@@ -1129,9 +1129,9 @@
       "color": "#CD853F"
     },
     {
-      "id": "gazebo",
-      "title": "BDSM Беседка",
-      "description":"Беседка на дальней стороне пруда.",
+      "id": "bando",
+      "title": "Заброшенный дом",
+      "description":"Развалины за территорией кэмпа. Выходим из ворот за главным домом идем по дороге налево до конца",
       "color": "#CD853F"
     },
     {
