@@ -708,7 +708,7 @@
       "timeEnd": "20:30",
       "track": "🌿 Hobby Grove",
       "title": "Blood on the Clocktower",
-      "placeId": "volley",
+      "placeId": "living_room",
       "author": "Евгений Костюченко",
       "authorUrl": "https://vas3k.club/user/kostyevgen/",
       "description": "Blood on the Clocktower — это мафиоподозбная игра, где у каждого игрока своя роль персонажа, и даже после смерти он может влиять на ход событий."
@@ -891,6 +891,18 @@
       "author": "Настя Суворова",
       "authorUrl": "https://vas3k.club/user/soul_porno/",
       "description": "Вместе замесим тесто и лепим пельмени. А потом дружно съедаем!"
+    },
+    {
+      "date": "2026-05-31",
+      "dayName": "Воскресенье",
+      "timeStart": "11:00",
+      "timeEnd": "13:00",
+      "track": "💬 Soft Skills Hub",
+      "placeId": "attic",
+      "title": "Как LLM запоминают и как сделать идеальную память",
+      "author": "Петр Королев",
+      "authorUrl": "https://vas3k.club/user/skywinder/",
+      "description": "LoCoMo, типы памяти и современные memory systems. Память для ИИ - одна из самых интересных и недорешенных тем прямо сейчас. Посмотрим, как LLM запоминают, где ломаются современные подходы и что может приблизить нас к действительно “помнящим” AI-системам"
     },
     {
       "date": "2026-05-31",
