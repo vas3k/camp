@@ -871,14 +871,13 @@
     {
       "date": "2026-05-31",
       "dayName": "Воскресенье",
-      "timeStart": "10:00",
-      "timeEnd": "11:00",
-      "track": "💬 Soft Skills Hub",
+      "timeStart": "11:00",
+      "timeEnd": "12:00",
       "placeId": "living_room",
-      "author": "Максим Фалеев",
-      "authorUrl": "https://vas3k.club/user/maxikadze/",
-      "title": "Как я укрощал социального мамонта",
-      "description": "Расскажу, как я тренировался забивать на социальные страхи. Для этого я придумывал себе стыдные пугающие испытания и проходил их. Будут фото- и видео- пруфы!"
+      "author": "Danis Zojl",
+       "authorUrl": "https://vas3k.club/user/danis/",
+      "title": "Квест афтерпати",
+      "description": "Смотрим ваши творческие задания, хохочем, задаем вопросы авторам Квеста Данису и Ростиславу"
     },
     {
       "date": "2026-05-31",
@@ -892,6 +891,17 @@
       "authorUrl": "https://vas3k.club/user/soul_porno/",
       "description": "Вместе замесим тесто и лепим пельмени. А потом дружно съедаем!"
     },
+    {
+      "date": "2026-05-31",
+      "dayName": "Воскресенье",
+      "timeStart": "10:30",
+      "timeEnd": "11:00",
+      "track": "🧠 Geek Zone",
+      "placeId": "restaurant",
+      "title": "Общее фото",
+      "description": "Фоткаемся и отправляем первый трансфер"
+    },
+    
     {
       "date": "2026-05-31",
       "dayName": "Воскресенье",
